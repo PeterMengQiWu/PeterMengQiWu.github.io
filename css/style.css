@@ -1,0 +1,99 @@
+.body {
+	background-color: black;
+	color: black;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin: 0;
+	height: 100%;
+
+}
+
+.container {
+	width: 80%;
+	margin: 0;
+	overflow: hidden;
+}
+
+.marg {
+	margin: auto;
+}
+
+.transbox {
+	margin: 30px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	opacity: 0.6;
+}
+
+.title {
+	padding: 0px;
+	text-align: center;
+	color: #ffffff;
+	font-weight: 900;
+}
+
+.desc,
+.email {
+	font-size: 1.25rem;
+	font-weight: 300;
+}
+
+#main-header {
+	background-color: coral;
+	color: #fff;
+}
+
+.navbar {
+	background-color: #333;
+	color: #fff;
+	margin: auto;
+}
+
+
+.myform {
+	margin: 0 auto;
+	width: 250px;
+	alignment: center;
+}
+
+.myform .form-group label {
+	display: block;
+}
+
+.myform input {
+	padding: 8px;
+	width: 100%;
+}
+
+.list-group-item a {
+	text-decoration: none;
+}
+
+/* Style all font awesome icons */
+.fab {
+	color: white;
+	padding: 10px;
+	margin: 5px 2px;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fab:hover {
+	color: white;
+	opacity: 0.7;
+	text-decoration: none;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fab-facebook {
+	color: white;
+}
+
+/* Twitter */
+.fab-linkedin {
+	color: white;
+}
