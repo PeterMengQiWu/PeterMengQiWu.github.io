@@ -49,22 +49,6 @@
 	margin: auto;
 }
 
-
-.myform {
-	margin: 0 auto;
-	width: 250px;
-	alignment: center;
-}
-
-.myform .form-group label {
-	display: block;
-}
-
-.myform input {
-	padding: 8px;
-	width: 100%;
-}
-
 .list-group-item a {
 	text-decoration: none;
 }
